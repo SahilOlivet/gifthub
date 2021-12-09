@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297763080310",
+    "project_id": "gifts-hub-761bb",
+    "storage_bucket": "gifts-hub-761bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297763080310:android:bb4fc9b626c000c9413757",
+        "android_client_info": {
+          "package_name": "com.example.gifts_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297763080310-9j8l5621cevmdvf3dr3q27ogq617h4se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCU4RW0Z6I08gHaMKHk3AaqprgN-ihS1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297763080310-9j8l5621cevmdvf3dr3q27ogq617h4se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
